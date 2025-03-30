@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p logitjack Jackknife cluster robust inference for logit models Use logitjack With STATA 18
